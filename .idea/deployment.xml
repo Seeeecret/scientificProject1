@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@106.15.93.102:1024 agent (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="root@106.15.93.102:1024 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/workspace/PycharmProject/scientificProject1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@106.15.93.102:1024 agent (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/workspace/PycharmProject/scientificProject1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="root@139.159.227.241:22 password">
         <serverdata>
           <mappings>
@@ -17,5 +31,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
